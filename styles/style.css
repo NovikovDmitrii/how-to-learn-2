@@ -105,7 +105,6 @@
   margin:0px;
   padding:0px;
   color: #2f80ed;
-  text-decoration: none;
 }
 
 .two-columns__main-text{
@@ -268,24 +267,11 @@ flex-direction: column;
   color: white;
 }
 .table_theme_dark {
-    display:flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    width: 1100px;
-    margin-left: auto;
-    margin-right:auto;
     position: relative;
     z-index: 5;
     margin-bottom: 90px;
 }
-.table__heading_theme_dark{
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: bold;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
-  
+
   .table__cell_theme_dark {
     width: 200px;
     color: white;
@@ -310,7 +296,7 @@ flex-direction: column;
     justify-content: space-between;
   }
   
-  .logo__place_footer {
+  .logo_place_footer {
     background: url(../images/logo_place_footer.svg);
     width:184px;
     height: 36px;
