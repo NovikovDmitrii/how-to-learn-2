@@ -1,0 +1,14 @@
+.khan__store-link {
+    display: flex;
+    justify-content: left;
+    margin-top:0px;
+    margin-left: 48px;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight:normal;
+    color: #2f80ed;
+  }
+.khan__store-link:hover {
+    opacity:0.5;
+    transition: .5s;
+  }

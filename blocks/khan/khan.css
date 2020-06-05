@@ -1,0 +1,12 @@
+@import url(./__book-title/khan__book-title.css);
+@import url(./__author/khan_author.css);
+@import url(./__main-text/khan__main-text.css);
+@import url(./__store/khan__store.css);
+@import url(./__subtitle/khan__subtitle.css);
+@import url(./__text/khan__text.css);
+@import url(./__content/khan__content.css);
+.khan{
+    
+    background-color: #f2f2f2;
+    padding-top: 105px;
+}

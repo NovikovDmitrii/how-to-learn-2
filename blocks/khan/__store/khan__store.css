@@ -1,0 +1,12 @@
+@import url(./khan__store-link/khan__store-link.css);
+@import url(./khan__store-image/khan__store-image.css);
+@import url(./khan__store-showcase/khan__store-showcase.css);
+.khan__store{
+    display: flex;
+    justify-content: left;
+    margin: 0 0 0 0;
+    justify-content: start;
+    position: relative;
+    height: 608px;
+    overflow:hidden;
+    }

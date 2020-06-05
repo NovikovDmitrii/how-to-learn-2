@@ -1,0 +1,9 @@
+.footer__column-link{
+    list-style-type: none;
+    text-decoration: none;
+    Color:white;
+  }
+  .footer__column-link:hover {
+    opacity:0.5;
+    transition: .5s;
+  }
